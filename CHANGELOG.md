@@ -1,3 +1,9 @@
+=======
+### 0.9.1 (Next)
+
+* [#75](https://github.com/slack-ruby/slack-ruby-bot/pull/101): Fix: Guarantee order of commands based on load order - [@gconklin](https://github.com/gconklin).
+* Your contribution here.
+
 ### 0.9.0 (8/29/2016)
 
 * [#89](https://github.com/slack-ruby/slack-ruby-bot/pull/89): Drop giphy dependency - [@tmsrjs](https://github.com/tmsrjs).
